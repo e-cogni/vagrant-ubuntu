@@ -9,4 +9,4 @@ aluno/aluno
 
 root/vagrant
 
-Por favor troque a senha desses usuários após a importação desta VM.
+Por favor troque as senhas desses usuários após a importação desta VM.
