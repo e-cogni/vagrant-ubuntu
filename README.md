@@ -1,2 +1,10 @@
 # vagrant-ubuntu
-Box Vagrant Ubuntu Xenial 64 pt_BR
+Box Vagrant Ubuntu ServerXenial x64 LTS - pt_BR
+
+usuário/senha:
+
+vagrant/vagrant
+aluno/luno
+root/vagrant
+
+Por favor troque a senha desses usuários após a importação desta VM.
