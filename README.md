@@ -1,5 +1,5 @@
 # vagrant-ubuntu
-Box Vagrant Ubuntu ServerXenial x64 LTS - pt_BR
+Box Vagrant Ubuntu Server Xenial x64 LTS - pt_BR
 
 usuário/senha:
 
