@@ -2,13 +2,13 @@
   "description": "Ubuntu Xenial x64 LTS pt_BR - Vagrant Box",
   "name": "e-cogni/xenial64",
   "versions": [{
-      "version": "1.1",
+      "version": "1.2",
       "status": "active",
       "providers": [{
-          "checksum": "169f255b45c25d28c951a06e9a8bb4ac6fd09eff176d1edc4dbdb8da24da47d5",
+          "checksum": "0a1a5fed26d88794af0184eb6022a50de27ed34bf786f3eb262c0ed6db01b23d",
           "checksum_type": "sha256",
           "name": "virtualbox",
-          "url": "https:\/\/github.com/e-cogni/vagrant-ubuntu/releases/download/v1.1/ubuntu-xenial64-pt_br-v1.1.box"
+          "url": "https:\/\/github.com/e-cogni/vagrant-ubuntu/releases/download/v1.1/ubuntu-xenial64-pt_br-v1.2.box"
         }]
     }]
 }
