@@ -5,7 +5,7 @@
       "version": "1.3",
       "status": "active",
       "providers": [{
-          "checksum": "52e64617c9e5dd76da969ad92fa9d04354f6ad15b7205ed8c81b8da1a7c9ba58",
+          "checksum": "8ff661f22db5684c0824176c614b7f4097d94b6968a0f71e5ae723f431477d63",
           "checksum_type": "sha256",
           "name": "virtualbox",
           "url": "https:\/\/github.com/e-cogni/vagrant-ubuntu/releases/download/v1.3/ubuntu-xenial64-pt_br-v1.3.box"
