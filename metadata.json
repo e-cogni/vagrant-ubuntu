@@ -5,7 +5,7 @@
       "version": "16.04",
       "status": "active",
       "providers": [{
-          "checksum": "4c8cfbd62709cf19de16024900dcf07969cf1b37fe79c2132464b6f7c77eead4",
+          "checksum": "2e22938c9442b09d4494b098c7666d042052347cbaad52dc92b336b098a20c4f",
           "checksum_type": "sha256",
           "name": "virtualbox",
           "url": "https:\/\/github.com/e-cogni/vagrant-ubuntu/releases/download/16.04/ubuntu-xenial64-pt_br.box"
