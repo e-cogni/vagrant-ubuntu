@@ -1,0 +1,14 @@
+{
+  "description": "Vagrant Base Box - Ubuntu Xenial x64 LTS pt_BR",
+  "name": "e-cogni/xenial64",
+  "versions": [{
+      "version": "16.04",
+      "status": "active",
+      "providers": [{
+          "checksum": "4c8cfbd62709cf19de16024900dcf07969cf1b37fe79c2132464b6f7c77eead4",
+          "checksum_type": "sha256",
+          "name": "virtualbox",
+          "url": "https:\/\/github.com/e-cogni/vagrant-ubuntu/releases/download/16.04/ubuntu-xenial64-pt_br.box"
+        }]
+    }]
+}
